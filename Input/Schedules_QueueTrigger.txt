@@ -1,0 +1,7 @@
+MachineName:-:PackageName:-:RobotFullName:-:QueueTriggerName:-:QueueName:-:ItemsActivationThreshold:-:ItemsPerJobActivationTarget:-:MaxJobsForActivation
+LTUS129632:-:Process_1:-:Test_Robot_Account:-:TEST_Q_Trigger_By_Vijay:-:Test_Queue_Via_API:-:8:-:9:-:10
+
+
+
+
+

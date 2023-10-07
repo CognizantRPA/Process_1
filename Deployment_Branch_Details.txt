@@ -1,0 +1,12 @@
+DeployToBranch	  Yes/No
+=============== : ======
+DeployToDEV	: No
+DeployToUAT	: No
+DeployToPROD	: No
+=============== : ======
+UiPath Elements		: (Create/Delete_DEV/UAT/PROD)/None
+=============== 	: =================================
+Assets			: None
+Queues			: None
+Schedules_TimeTrigger	: None
+Schedules_QueueTrigger	: Create_DEV

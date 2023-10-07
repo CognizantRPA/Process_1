@@ -1,0 +1,2 @@
+MachineName:-:PackageName:-:RobotFullName:-:TimeTriggerName:-:CronExpression
+LTUS129632:-:Process_1:-:Test_Robot_Account:-:TEST_Time_Trigger_By_Vijay:-:0 0 16-23 ? * SUN,MON,TUE,WED,THU,FRI,SAT *
